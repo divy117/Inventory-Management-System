@@ -93,6 +93,6 @@ Improve UI styling with custom themes
 This project is for educational purposes. Feel free to fork, modify, and build upon it.
 
 👤 Author
-Arjun Saini Specialized Honours BCom – E‑Commerce Development (IT) York University
+Divy Patel Specialized Honours BA – Information Technology York University
 
 If you’re an employer or collaborator reviewing this project: this system was designed with clarity, structure, and real‑world applicability in mind.
